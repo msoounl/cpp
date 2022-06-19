@@ -1,20 +1,2 @@
 {
-    "files.associations": {
-        "iostream": "cpp",
-        "__config": "cpp",
-        "cstddef": "cpp",
-        "__nullptr": "cpp",
-        "__functional_03": "cpp",
-        "exception": "cpp",
-        "functional": "cpp",
-        "memory": "cpp",
-        "string": "cpp",
-        "type_traits": "cpp",
-        "utility": "cpp",
-        "vector": "cpp",
-        "iosfwd": "cpp",
-        "ostream": "cpp",
-        "cstdlib": "cpp",
-        "csignal": "cpp"
-    }
 }
